@@ -1,4 +1,4 @@
-# How can the Total Number of Goals Scored be Predicted? (Comparing different Regression Methods)
+# How Many Goals will be Scored? (Comparing different Regression Methods)
 
 ## Part 1: Project Background
 
